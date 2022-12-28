@@ -1,5 +1,4 @@
 # myglamm-clone
-# FaydaBazar
 This is a clone of myglamm.com . this e-commers website.  This is a American base web site. 
 
 
@@ -10,7 +9,6 @@ _To start with the Project run the following command in terminal
 > > ⌘ **npm start**
 
 
-## NOTE: [Sample login details:( email:one@gmail.com, password:oneone )]
 ---
 
 
