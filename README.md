@@ -9,7 +9,7 @@ _To start with the Project run the following command in terminal
 > > ⌘ **npm start**
 
 
----NETLIFY-LINK=https://myladyshine.netlify.app/cart
+---NETLIFY-LINK=https://myladyshine.netlify.app
 
 It is an individual project
 
