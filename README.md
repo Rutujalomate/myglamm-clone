@@ -1,5 +1,5 @@
 # myglamm-clone
-This is a clone of myglamm.com . this e-commers website.  This is a American base web site. 
+This is a clone of myglamm.com . this e-commers website.  MyGlamm is an Indian e-commerce company that sells cosmetics and personal care products.
 
 
 ### Project Description
